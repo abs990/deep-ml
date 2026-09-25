@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T21:56:26.429Z",
+  "generated_at": "2026-09-25T22:08:25.997Z",
   "items": {
     "problem:1208": {
       "kind": "problem",
@@ -194,6 +194,19 @@
       "path": "math/0034-least-squares-and-the-normal-equations",
       "first_solved_at": "2026-09-25T21:56:23.316Z",
       "last_pushed_at": "2026-09-25T21:56:23.316Z"
+    },
+    "problem:1058": {
+      "kind": "problem",
+      "id": "1058",
+      "title": "Random Train/Validation/Test Split with Shuffling",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/1058",
+      "path": "problems/1058-random-train-validation-test-split-with-shuffling",
+      "first_solved_at": "2026-09-25T22:08:24.178Z",
+      "last_pushed_at": "2026-09-25T22:08:24.178Z",
+      "language": "python",
+      "lines": 27
     }
   }
 }
