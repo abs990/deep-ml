@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**25** solved · 18 problems · 0 labs · 7 math
+**26** solved · 19 problems · 0 labs · 7 math
 
 ![Coverage](./coverage.svg)
 
@@ -27,6 +27,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Dot Product](https://www.deep-ml.com/problems/1208) | medium | 2026-09-25 | [solution](problems/1208-dot-product) |
 | [Dummy Classifier Baseline](https://www.deep-ml.com/problems/847) | medium | 2026-09-27 | [solution](problems/0847-dummy-classifier-baseline) |
 | [Dummy Regressor Baseline](https://www.deep-ml.com/problems/848) | medium | 2026-09-27 | [solution](problems/0848-dummy-regressor-baseline) |
+| [Mini-Batch Gradient Descent Step for Linear Regression](https://www.deep-ml.com/problems/803) | medium | 2026-09-27 | [solution](problems/0803-mini-batch-gradient-descent-step-for-linear-regression) |
 | [Quotient Rule for Derivatives](https://www.deep-ml.com/problems/312) | medium | 2026-09-25 | [solution](problems/0312-quotient-rule-for-derivatives) |
 | [StandardScaler Fit and Transform](https://www.deep-ml.com/problems/842) | medium | 2026-09-26 | [solution](problems/0842-standardscaler-fit-and-transform) |
 | [Stochastic Gradient Descent Step for Linear Regression](https://www.deep-ml.com/problems/802) | medium | 2026-09-27 | [solution](problems/0802-stochastic-gradient-descent-step-for-linear-regression) |
