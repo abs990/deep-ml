@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**40** solved · 32 problems · 0 labs · 8 math
+**41** solved · 33 problems · 0 labs · 8 math
 
 ![Coverage](./coverage.svg)
 
@@ -37,6 +37,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Dot Product](https://www.deep-ml.com/problems/1208) | medium | 2026-09-25 | [solution](problems/1208-dot-product) |
 | [Dummy Classifier Baseline](https://www.deep-ml.com/problems/847) | medium | 2026-09-27 | [solution](problems/0847-dummy-classifier-baseline) |
 | [Dummy Regressor Baseline](https://www.deep-ml.com/problems/848) | medium | 2026-09-27 | [solution](problems/0848-dummy-regressor-baseline) |
+| [Implement Grid Search](https://www.deep-ml.com/problems/288) | medium | 2026-09-30 | [solution](problems/0288-implement-grid-search) |
 | [Mini-Batch Gradient Descent Step for Linear Regression](https://www.deep-ml.com/problems/803) | medium | 2026-09-27 | [solution](problems/0803-mini-batch-gradient-descent-step-for-linear-regression) |
 | [Naive Matrix Multiplication](https://www.deep-ml.com/problems/1209) | medium | 2026-09-30 | [solution](problems/1209-naive-matrix-multiplication) |
 | [Precision and Recall at Threshold](https://www.deep-ml.com/problems/849) | medium | 2026-09-30 | [solution](problems/0849-precision-and-recall-at-threshold) |
