@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T18:41:15.171Z",
+  "generated_at": "2026-10-01T20:29:00.629Z",
   "items": {
     "problem:1208": {
       "kind": "problem",
@@ -550,6 +550,19 @@
       "path": "math/0038-log-likelihood-gradients",
       "first_solved_at": "2026-10-01T18:41:14.089Z",
       "last_pushed_at": "2026-10-01T18:41:14.089Z"
+    },
+    "problem:6": {
+      "kind": "problem",
+      "id": "6",
+      "title": "Calculate Eigenvalues of a Matrix",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/6",
+      "path": "problems/0006-calculate-eigenvalues-of-a-matrix",
+      "first_solved_at": "2026-10-01T20:29:00.769Z",
+      "last_pushed_at": "2026-10-01T20:29:00.769Z",
+      "language": "python",
+      "lines": 12
     }
   }
 }
