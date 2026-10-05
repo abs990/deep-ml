@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T18:06:15.637Z",
+  "generated_at": "2026-10-05T21:23:05.826Z",
   "items": {
     "problem:1208": {
       "kind": "problem",
@@ -706,6 +706,19 @@
       "last_pushed_at": "2026-10-05T18:06:14.903Z",
       "language": "python",
       "lines": 36
+    },
+    "problem:189": {
+      "kind": "problem",
+      "id": "189",
+      "title": "Implement Local Response Normalization (LRN)",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/189",
+      "path": "problems/0189-implement-local-response-normalization-lrn",
+      "first_solved_at": "2026-10-05T21:23:00.984Z",
+      "last_pushed_at": "2026-10-05T21:23:00.984Z",
+      "language": "python",
+      "lines": 33
     }
   }
 }
