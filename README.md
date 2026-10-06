@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**57** solved · 44 problems · 2 labs · 11 math
+**58** solved · 45 problems · 2 labs · 11 math
 
 ![Coverage](./coverage.svg)
 
@@ -55,6 +55,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Simple Convolutional 2D Layer](https://www.deep-ml.com/problems/41) | medium | 2026-10-05 | [solution](problems/0041-simple-convolutional-2d-layer) |
 | [StandardScaler Fit and Transform](https://www.deep-ml.com/problems/842) | medium | 2026-09-26 | [solution](problems/0842-standardscaler-fit-and-transform) |
 | [Stochastic Gradient Descent Step for Linear Regression](https://www.deep-ml.com/problems/802) | medium | 2026-09-27 | [solution](problems/0802-stochastic-gradient-descent-step-for-linear-regression) |
+| [PCA Color Augmentation](https://www.deep-ml.com/problems/191) | hard | 2026-10-06 | [solution](problems/0191-pca-color-augmentation) |
 | [Train Logistic Regression with Gradient Descent](https://www.deep-ml.com/problems/106) | hard | 2026-09-30 | [solution](problems/0106-train-logistic-regression-with-gradient-descent) |
 
 ## Labs
