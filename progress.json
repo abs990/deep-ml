@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T21:48:14.285Z",
+  "generated_at": "2026-10-07T21:53:46.493Z",
   "items": {
     "problem:1208": {
       "kind": "problem",
@@ -1071,6 +1071,17 @@
       "path": "math/0047-gram-schmidt-and-orthonormal-bases",
       "first_solved_at": "2026-10-07T21:48:13.755Z",
       "last_pushed_at": "2026-10-07T21:48:13.755Z"
+    },
+    "math:48": {
+      "kind": "math",
+      "id": "48",
+      "title": "Pseudoinverse and Minimum-Norm Least Squares",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/48",
+      "path": "math/0048-pseudoinverse-and-minimum-norm-least-squares",
+      "first_solved_at": "2026-10-07T21:53:46.059Z",
+      "last_pushed_at": "2026-10-07T21:53:46.059Z"
     }
   }
 }
