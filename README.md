@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**79** solved · 62 problems · 2 labs · 15 math
+**80** solved · 63 problems · 2 labs · 15 math
 
 ![Coverage](./coverage.svg)
 
@@ -55,6 +55,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Dummy Classifier Baseline](https://www.deep-ml.com/problems/847) | medium | 2026-09-27 | [solution](problems/0847-dummy-classifier-baseline) |
 | [Dummy Regressor Baseline](https://www.deep-ml.com/problems/848) | medium | 2026-09-27 | [solution](problems/0848-dummy-regressor-baseline) |
 | [Find the column space of a matrix](https://www.deep-ml.com/problems/68) | medium | 2026-10-07 | [solution](problems/0068-find-the-column-space-of-a-matrix) |
+| [Gauss-Seidel Method for Solving Linear Systems](https://www.deep-ml.com/problems/57) | medium | 2026-10-07 | [solution](problems/0057-gauss-seidel-method-for-solving-linear-systems) |
 | [Gaussian Elimination for Solving Linear Systems](https://www.deep-ml.com/problems/58) | medium | 2026-10-07 | [solution](problems/0058-gaussian-elimination-for-solving-linear-systems) |
 | [Gradient of a Weighted Sum of Squares](https://www.deep-ml.com/problems/1223) | medium | 2026-10-06 | [solution](problems/1223-gradient-of-a-weighted-sum-of-squares) |
 | [Implement Gradient Descent Variants with MSE Loss](https://www.deep-ml.com/problems/47) | medium | 2026-10-01 | [solution](problems/0047-implement-gradient-descent-variants-with-mse-loss) |
