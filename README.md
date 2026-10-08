@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**92** solved · 69 problems · 3 labs · 20 math
+**93** solved · 69 problems · 3 labs · 21 math
 
 ![Coverage](./coverage.svg)
 
@@ -101,6 +101,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Gradient Descent Updates](https://www.deep-ml.com/math-problems/5) | easy | 2026-09-25 | [solution](math/0005-gradient-descent-updates) |
 | [ML Workflow Basics](https://www.deep-ml.com/math-problems/30) | easy | 2026-09-25 | [solution](math/0030-ml-workflow-basics) |
 | [Probability Fundamentals](https://www.deep-ml.com/math-problems/19) | easy | 2026-09-25 | [solution](math/0019-probability-fundamentals) |
+| [Bayes' Theorem](https://www.deep-ml.com/math-problems/20) | medium | 2026-10-08 | [solution](math/0020-bayes-theorem) |
 | [Determinants and Trace](https://www.deep-ml.com/math-problems/11) | medium | 2026-10-06 | [solution](math/0011-determinants-and-trace) |
 | [Gram–Schmidt and Orthonormal Bases](https://www.deep-ml.com/math-problems/47) | medium | 2026-10-07 | [solution](math/0047-gram-schmidt-and-orthonormal-bases) |
 | [Inverse and Rank](https://www.deep-ml.com/math-problems/12) | medium | 2026-10-06 | [solution](math/0012-inverse-and-rank) |
