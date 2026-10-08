@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T18:17:45.916Z",
+  "generated_at": "2026-10-08T18:37:43.345Z",
   "items": {
     "problem:1208": {
       "kind": "problem",
@@ -1217,6 +1217,19 @@
       "last_pushed_at": "2026-10-08T18:17:45.334Z",
       "language": "python",
       "lines": 33
+    },
+    "problem:486": {
+      "kind": "problem",
+      "id": "486",
+      "title": "Adaptive KL-Penalized Reward Shaping for RLHF",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/486",
+      "path": "problems/0486-adaptive-kl-penalized-reward-shaping-for-rlhf",
+      "first_solved_at": "2026-10-08T18:37:40.195Z",
+      "last_pushed_at": "2026-10-08T18:37:40.195Z",
+      "language": "python",
+      "lines": 44
     }
   }
 }
