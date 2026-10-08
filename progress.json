@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T17:26:53.981Z",
+  "generated_at": "2026-10-08T17:33:03.618Z",
   "items": {
     "problem:1208": {
       "kind": "problem",
@@ -1167,6 +1167,17 @@
       "path": "math/0020-bayes-theorem",
       "first_solved_at": "2026-10-08T17:26:53.156Z",
       "last_pushed_at": "2026-10-08T17:26:53.156Z"
+    },
+    "math:70": {
+      "kind": "math",
+      "id": "70",
+      "title": "Goodhart's Law: Proxy Correlation under Optimization",
+      "difficulty": "medium",
+      "category": "AI Safety",
+      "url": "https://www.deep-ml.com/math-problems/70",
+      "path": "math/0070-goodhart-s-law-proxy-correlation-under-optimization",
+      "first_solved_at": "2026-10-08T17:33:03.117Z",
+      "last_pushed_at": "2026-10-08T17:33:03.117Z"
     }
   }
 }
