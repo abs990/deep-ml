@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T17:15:00.555Z",
+  "generated_at": "2026-10-08T17:18:29.963Z",
   "items": {
     "problem:1208": {
       "kind": "problem",
@@ -1145,6 +1145,17 @@
       "path": "math/0044-class-imbalance-and-proper-scoring",
       "first_solved_at": "2026-10-08T17:14:59.676Z",
       "last_pushed_at": "2026-10-08T17:14:59.676Z"
+    },
+    "math:25": {
+      "kind": "math",
+      "id": "25",
+      "title": "KL Divergence",
+      "difficulty": "hard",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/25",
+      "path": "math/0025-kl-divergence",
+      "first_solved_at": "2026-10-08T17:18:29.493Z",
+      "last_pushed_at": "2026-10-08T17:18:29.493Z"
     }
   }
 }

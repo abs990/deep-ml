@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**91** solved · 69 problems · 3 labs · 19 math
+**92** solved · 69 problems · 3 labs · 20 math
 
 ![Coverage](./coverage.svg)
 
@@ -113,6 +113,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Solving Linear Systems](https://www.deep-ml.com/math-problems/13) | medium | 2026-10-07 | [solution](math/0013-solving-linear-systems) |
 | [The Four Fundamental Subspaces](https://www.deep-ml.com/math-problems/46) | medium | 2026-10-06 | [solution](math/0046-the-four-fundamental-subspaces) |
 | [Uniform Quantization: Scale and Zero-Point](https://www.deep-ml.com/math-problems/45) | medium | 2026-10-01 | [solution](math/0045-uniform-quantization-scale-and-zero-point) |
+| [KL Divergence](https://www.deep-ml.com/math-problems/25) | hard | 2026-10-08 | [solution](math/0025-kl-divergence) |
 
 ---
 
