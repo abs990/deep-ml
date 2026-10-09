@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**101** solved · 74 problems · 3 labs · 24 math
+**102** solved · 74 problems · 3 labs · 25 math
 
 ![Coverage](./coverage.svg)
 
@@ -115,6 +115,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Least Squares and the Normal Equations](https://www.deep-ml.com/math-problems/34) | medium | 2026-09-25 | [solution](math/0034-least-squares-and-the-normal-equations) |
 | [Log-Likelihood Gradients](https://www.deep-ml.com/math-problems/38) | medium | 2026-10-01 | [solution](math/0038-log-likelihood-gradients) |
 | [Logistic Regression as Maximum Likelihood](https://www.deep-ml.com/math-problems/40) | medium | 2026-09-28 | [solution](math/0040-logistic-regression-as-maximum-likelihood) |
+| [Matrix Calculus Identities](https://www.deep-ml.com/math-problems/35) | medium | 2026-10-09 | [solution](math/0035-matrix-calculus-identities) |
 | [Multivariate Calculus](https://www.deep-ml.com/math-problems/2) | medium | 2026-10-09 | [solution](math/0002-multivariate-calculus) |
 | [Orthogonality and Projections](https://www.deep-ml.com/math-problems/14) | medium | 2026-10-07 | [solution](math/0014-orthogonality-and-projections) |
 | [Pseudoinverse and Minimum-Norm Least Squares](https://www.deep-ml.com/math-problems/48) | medium | 2026-10-07 | [solution](math/0048-pseudoinverse-and-minimum-norm-least-squares) |
