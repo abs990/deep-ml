@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**98** solved · 73 problems · 3 labs · 22 math
+**99** solved · 73 problems · 3 labs · 23 math
 
 ![Coverage](./coverage.svg)
 
@@ -106,6 +106,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [ML Workflow Basics](https://www.deep-ml.com/math-problems/30) | easy | 2026-09-25 | [solution](math/0030-ml-workflow-basics) |
 | [Probability Fundamentals](https://www.deep-ml.com/math-problems/19) | easy | 2026-09-25 | [solution](math/0019-probability-fundamentals) |
 | [Bayes' Theorem](https://www.deep-ml.com/math-problems/20) | medium | 2026-10-08 | [solution](math/0020-bayes-theorem) |
+| [Covariance and Correlation](https://www.deep-ml.com/math-problems/17) | medium | 2026-10-09 | [solution](math/0017-covariance-and-correlation) |
 | [Determinants and Trace](https://www.deep-ml.com/math-problems/11) | medium | 2026-10-06 | [solution](math/0011-determinants-and-trace) |
 | [Goodhart's Law: Proxy Correlation under Optimization](https://www.deep-ml.com/math-problems/70) | medium | 2026-10-08 | [solution](math/0070-goodhart-s-law-proxy-correlation-under-optimization) |
 | [Gram–Schmidt and Orthonormal Bases](https://www.deep-ml.com/math-problems/47) | medium | 2026-10-07 | [solution](math/0047-gram-schmidt-and-orthonormal-bases) |
