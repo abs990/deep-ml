@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T18:53:55.240Z",
+  "generated_at": "2026-10-09T19:01:22.307Z",
   "items": {
     "problem:1208": {
       "kind": "problem",
@@ -1298,6 +1298,19 @@
       "path": "math/0004-backpropagation-and-the-chain-rule",
       "first_solved_at": "2026-10-09T18:53:53.907Z",
       "last_pushed_at": "2026-10-09T18:53:53.907Z"
+    },
+    "problem:215": {
+      "kind": "problem",
+      "id": "215",
+      "title": "Partial Derivatives of Multivariable Functions",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/215",
+      "path": "problems/0215-partial-derivatives-of-multivariable-functions",
+      "first_solved_at": "2026-10-09T19:01:20.853Z",
+      "last_pushed_at": "2026-10-09T19:01:20.853Z",
+      "language": "python",
+      "lines": 36
     }
   }
 }

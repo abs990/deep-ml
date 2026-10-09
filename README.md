@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**104** solved · 74 problems · 3 labs · 27 math
+**105** solved · 75 problems · 3 labs · 27 math
 
 ![Coverage](./coverage.svg)
 
@@ -75,6 +75,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Naive Matrix Multiplication](https://www.deep-ml.com/problems/1209) | medium | 2026-09-30 | [solution](problems/1209-naive-matrix-multiplication) |
 | [Normal Distribution PDF Calculator](https://www.deep-ml.com/problems/80) | medium | 2026-10-01 | [solution](problems/0080-normal-distribution-pdf-calculator) |
 | [Overlapping Max Pooling](https://www.deep-ml.com/problems/190) | medium | 2026-10-05 | [solution](problems/0190-overlapping-max-pooling) |
+| [Partial Derivatives of Multivariable Functions](https://www.deep-ml.com/problems/215) | medium | 2026-10-09 | [solution](problems/0215-partial-derivatives-of-multivariable-functions) |
 | [Precision and Recall at Threshold](https://www.deep-ml.com/problems/849) | medium | 2026-09-30 | [solution](problems/0849-precision-and-recall-at-threshold) |
 | [Quotient Rule for Derivatives](https://www.deep-ml.com/problems/312) | medium | 2026-09-25 | [solution](problems/0312-quotient-rule-for-derivatives) |
 | [Simple Convolutional 2D Layer](https://www.deep-ml.com/problems/41) | medium | 2026-10-05 | [solution](problems/0041-simple-convolutional-2d-layer) |
