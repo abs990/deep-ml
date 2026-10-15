@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**109** solved · 79 problems · 3 labs · 27 math
+**110** solved · 80 problems · 3 labs · 27 math
 
 ![Coverage](./coverage.svg)
 
@@ -48,6 +48,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Quality Filtering with Rejection Sampling](https://www.deep-ml.com/problems/508) | easy | 2026-10-08 | [solution](problems/0508-quality-filtering-with-rejection-sampling) |
 | [Random Train/Validation/Test Split with Shuffling](https://www.deep-ml.com/problems/1058) | easy | 2026-09-25 | [solution](problems/1058-random-train-validation-test-split-with-shuffling) |
 | [Rejection Sampling Best-of-K Selection](https://www.deep-ml.com/problems/768) | easy | 2026-10-08 | [solution](problems/0768-rejection-sampling-best-of-k-selection) |
+| [Remove duplicates with DISTINCT](https://www.deep-ml.com/problems/1105) | easy | 2026-10-15 | [solution](problems/1105-remove-duplicates-with-distinct) |
 | [Reshape and Transpose a Tensor](https://www.deep-ml.com/problems/1221) | easy | 2026-10-06 | [solution](problems/1221-reshape-and-transpose-a-tensor) |
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2026-10-06 | [solution](problems/0003-reshape-matrix) |
 | [SELECT all rows](https://www.deep-ml.com/problems/1101) | easy | 2026-10-15 | [solution](problems/1101-select-all-rows) |
