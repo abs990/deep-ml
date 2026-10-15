@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**113** solved · 83 problems · 3 labs · 27 math
+**114** solved · 84 problems · 3 labs · 27 math
 
 ![Coverage](./coverage.svg)
 
@@ -59,6 +59,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Sort results with ORDER BY](https://www.deep-ml.com/problems/1104) | easy | 2026-10-15 | [solution](problems/1104-sort-results-with-order-by) |
 | [Top N with LIMIT](https://www.deep-ml.com/problems/1106) | easy | 2026-10-15 | [solution](problems/1106-top-n-with-limit) |
 | [Transformation Matrix from Basis B to C](https://www.deep-ml.com/problems/27) | easy | 2026-10-08 | [solution](problems/0027-transformation-matrix-from-basis-b-to-c) |
+| [Your first JOIN](https://www.deep-ml.com/problems/1109) | easy | 2026-10-15 | [solution](problems/1109-your-first-join) |
 | [Adaptive KL-Penalized Reward Shaping for RLHF](https://www.deep-ml.com/problems/486) | medium | 2026-10-08 | [solution](problems/0486-adaptive-kl-penalized-reward-shaping-for-rlhf) |
 | [Binomial Distribution Probability](https://www.deep-ml.com/problems/79) | medium | 2026-10-01 | [solution](problems/0079-binomial-distribution-probability) |
 | [Calculate Correlation Matrix](https://www.deep-ml.com/problems/37) | medium | 2026-10-09 | [solution](problems/0037-calculate-correlation-matrix) |
