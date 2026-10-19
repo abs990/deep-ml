@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**129** solved · 96 problems · 5 labs · 28 math
+**130** solved · 97 problems · 5 labs · 28 math
 
 ![Coverage](./coverage.svg)
 
@@ -107,6 +107,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Determinant of a 4x4 Matrix using Laplace's Expansion (hard)](https://www.deep-ml.com/problems/13) | hard | 2026-10-07 | [solution](problems/0013-determinant-of-a-4x4-matrix-using-laplace-s-expansion-hard) |
 | [Implement the Conjugate Gradient Method for Solving Linear Systems](https://www.deep-ml.com/problems/63) | hard | 2026-10-07 | [solution](problems/0063-implement-the-conjugate-gradient-method-for-solving-linear-systems) |
 | [PCA Color Augmentation](https://www.deep-ml.com/problems/191) | hard | 2026-10-06 | [solution](problems/0191-pca-color-augmentation) |
+| [SVD of a 2x2 Matrix](https://www.deep-ml.com/problems/28) | hard | 2026-10-19 | [solution](problems/0028-svd-of-a-2x2-matrix) |
 | [Train Logistic Regression with Gradient Descent](https://www.deep-ml.com/problems/106) | hard | 2026-09-30 | [solution](problems/0106-train-logistic-regression-with-gradient-descent) |
 
 ## Labs
