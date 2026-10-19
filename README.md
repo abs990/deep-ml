@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**121** solved · 90 problems · 3 labs · 28 math
+**122** solved · 91 problems · 3 labs · 28 math
 
 ![Coverage](./coverage.svg)
 
@@ -80,6 +80,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Gaussian Elimination for Solving Linear Systems](https://www.deep-ml.com/problems/58) | medium | 2026-10-07 | [solution](problems/0058-gaussian-elimination-for-solving-linear-systems) |
 | [Goodhart Overoptimization Curve (Proxy vs Gold Reward)](https://www.deep-ml.com/problems/1333) | medium | 2026-10-08 | [solution](problems/1333-goodhart-overoptimization-curve-proxy-vs-gold-reward) |
 | [Gradient of a Weighted Sum of Squares](https://www.deep-ml.com/problems/1223) | medium | 2026-10-06 | [solution](problems/1223-gradient-of-a-weighted-sum-of-squares) |
+| [Implement Adam Optimization Algorithm](https://www.deep-ml.com/problems/49) | medium | 2026-10-19 | [solution](problems/0049-implement-adam-optimization-algorithm) |
 | [Implement Gradient Descent Variants with MSE Loss](https://www.deep-ml.com/problems/47) | medium | 2026-10-01 | [solution](problems/0047-implement-gradient-descent-variants-with-mse-loss) |
 | [Implement Grid Search](https://www.deep-ml.com/problems/288) | medium | 2026-09-30 | [solution](problems/0288-implement-grid-search) |
 | [Implement Local Response Normalization (LRN)](https://www.deep-ml.com/problems/189) | medium | 2026-10-05 | [solution](problems/0189-implement-local-response-normalization-lrn) |
