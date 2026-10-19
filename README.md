@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**122** solved · 91 problems · 3 labs · 28 math
+**123** solved · 92 problems · 3 labs · 28 math
 
 ![Coverage](./coverage.svg)
 
@@ -83,6 +83,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Adam Optimization Algorithm](https://www.deep-ml.com/problems/49) | medium | 2026-10-19 | [solution](problems/0049-implement-adam-optimization-algorithm) |
 | [Implement Gradient Descent Variants with MSE Loss](https://www.deep-ml.com/problems/47) | medium | 2026-10-01 | [solution](problems/0047-implement-gradient-descent-variants-with-mse-loss) |
 | [Implement Grid Search](https://www.deep-ml.com/problems/288) | medium | 2026-09-30 | [solution](problems/0288-implement-grid-search) |
+| [Implement Lasso Regression using ISTA](https://www.deep-ml.com/problems/50) | medium | 2026-10-19 | [solution](problems/0050-implement-lasso-regression-using-ista) |
 | [Implement Local Response Normalization (LRN)](https://www.deep-ml.com/problems/189) | medium | 2026-10-05 | [solution](problems/0189-implement-local-response-normalization-lrn) |
 | [Implement Reduced Row Echelon Form (RREF) Function](https://www.deep-ml.com/problems/48) | medium | 2026-10-07 | [solution](problems/0048-implement-reduced-row-echelon-form-rref-function) |
 | [Jacobian Matrix Calculation](https://www.deep-ml.com/problems/202) | medium | 2026-10-15 | [solution](problems/0202-jacobian-matrix-calculation) |
