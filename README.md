@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**133** solved · 100 problems · 5 labs · 28 math
+**134** solved · 101 problems · 5 labs · 28 math
 
 ![Coverage](./coverage.svg)
 
@@ -92,6 +92,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Lasso Regression using ISTA](https://www.deep-ml.com/problems/50) | medium | 2026-10-19 | [solution](problems/0050-implement-lasso-regression-using-ista) |
 | [Implement Local Response Normalization (LRN)](https://www.deep-ml.com/problems/189) | medium | 2026-10-05 | [solution](problems/0189-implement-local-response-normalization-lrn) |
 | [Implement Reduced Row Echelon Form (RREF) Function](https://www.deep-ml.com/problems/48) | medium | 2026-10-07 | [solution](problems/0048-implement-reduced-row-echelon-form-rref-function) |
+| [Implement ROC Curve Calculation](https://www.deep-ml.com/problems/276) | medium | 2026-10-20 | [solution](problems/0276-implement-roc-curve-calculation) |
 | [Implement the Huber Loss Function](https://www.deep-ml.com/problems/192) | medium | 2026-10-19 | [solution](problems/0192-implement-the-huber-loss-function) |
 | [Jacobian Matrix Calculation](https://www.deep-ml.com/problems/202) | medium | 2026-10-15 | [solution](problems/0202-jacobian-matrix-calculation) |
 | [Matrix Rank](https://www.deep-ml.com/problems/329) | medium | 2026-10-07 | [solution](problems/0329-matrix-rank) |
