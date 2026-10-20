@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**134** solved · 101 problems · 5 labs · 28 math
+**135** solved · 102 problems · 5 labs · 28 math
 
 ![Coverage](./coverage.svg)
 
@@ -70,6 +70,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [2D Translation Matrix Implementation](https://www.deep-ml.com/problems/55) | medium | 2026-10-19 | [solution](problems/0055-2d-translation-matrix-implementation) |
 | [Adaptive KL-Penalized Reward Shaping for RLHF](https://www.deep-ml.com/problems/486) | medium | 2026-10-08 | [solution](problems/0486-adaptive-kl-penalized-reward-shaping-for-rlhf) |
 | [Binomial Distribution Probability](https://www.deep-ml.com/problems/79) | medium | 2026-10-01 | [solution](problems/0079-binomial-distribution-probability) |
+| [Calculate AUC (Area Under ROC Curve)](https://www.deep-ml.com/problems/277) | medium | 2026-10-20 | [solution](problems/0277-calculate-auc-area-under-roc-curve) |
 | [Calculate Correlation Matrix](https://www.deep-ml.com/problems/37) | medium | 2026-10-09 | [solution](problems/0037-calculate-correlation-matrix) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-10-01 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Calculate Performance Metrics for a Classification Model](https://www.deep-ml.com/problems/77) | medium | 2026-10-19 | [solution](problems/0077-calculate-performance-metrics-for-a-classification-model) |
