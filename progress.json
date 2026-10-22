@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T18:54:49.010Z",
+  "generated_at": "2026-10-22T18:58:33.372Z",
   "items": {
     "problem:1208": {
       "kind": "problem",
@@ -1851,6 +1851,19 @@
       "last_pushed_at": "2026-10-22T18:54:48.346Z",
       "language": "python",
       "lines": 23
+    },
+    "problem:963": {
+      "kind": "problem",
+      "id": "963",
+      "title": "Scale Attention Scores by sqrt(d_k)",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/963",
+      "path": "problems/0963-scale-attention-scores-by-sqrt-d-k",
+      "first_solved_at": "2026-10-22T18:58:32.893Z",
+      "last_pushed_at": "2026-10-22T18:58:32.893Z",
+      "language": "python",
+      "lines": 24
     }
   }
 }
