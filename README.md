@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**153** solved · 118 problems · 5 labs · 30 math
+**154** solved · 119 problems · 5 labs · 30 math
 
 ![Coverage](./coverage.svg)
 
@@ -125,6 +125,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Stochastic Gradient Descent Step for Linear Regression](https://www.deep-ml.com/problems/802) | medium | 2026-09-27 | [solution](problems/0802-stochastic-gradient-descent-step-for-linear-regression) |
 | [Determinant of a 4x4 Matrix using Laplace's Expansion (hard)](https://www.deep-ml.com/problems/13) | hard | 2026-10-07 | [solution](problems/0013-determinant-of-a-4x4-matrix-using-laplace-s-expansion-hard) |
 | [Implement Multi-Head Attention](https://www.deep-ml.com/problems/94) | hard | 2026-10-22 | [solution](problems/0094-implement-multi-head-attention) |
+| [Implement Multi-Head Attention Using Einsum](https://www.deep-ml.com/problems/960) | hard | 2026-10-22 | [solution](problems/0960-implement-multi-head-attention-using-einsum) |
 | [Implement the Conjugate Gradient Method for Solving Linear Systems](https://www.deep-ml.com/problems/63) | hard | 2026-10-07 | [solution](problems/0063-implement-the-conjugate-gradient-method-for-solving-linear-systems) |
 | [PCA Color Augmentation](https://www.deep-ml.com/problems/191) | hard | 2026-10-06 | [solution](problems/0191-pca-color-augmentation) |
 | [Pegasos Kernel SVM Implementation](https://www.deep-ml.com/problems/21) | hard | 2026-10-21 | [solution](problems/0021-pegasos-kernel-svm-implementation) |
