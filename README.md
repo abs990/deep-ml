@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**156** solved · 121 problems · 5 labs · 30 math
+**157** solved · 121 problems · 6 labs · 30 math
 
 ![Coverage](./coverage.svg)
 
@@ -142,6 +142,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Train a Binary Classifier](https://www.deep-ml.com/labs/23) | easy | 2026-10-19 | [solution](labs/0023-train-a-binary-classifier) |
 | [Train a Linear Regression Model](https://www.deep-ml.com/labs/18) | easy | 2026-10-08 | [solution](labs/0018-train-a-linear-regression-model) |
 | [Data Preprocessing: Handling Missing Values](https://www.deep-ml.com/labs/11) | medium | 2026-10-04 | [solution](labs/0011-data-preprocessing-handling-missing-values) |
+| [Design Your Own Attention Mechanism](https://www.deep-ml.com/labs/10) | medium | 2026-10-22 | [solution](labs/0010-design-your-own-attention-mechanism) |
 | [Numpy: Design Your Own Dimensionality Reduction](https://www.deep-ml.com/labs/14) | medium | 2026-10-19 | [solution](labs/0014-numpy-design-your-own-dimensionality-reduction) |
 
 ## Math
