@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**151** solved · 116 problems · 5 labs · 30 math
+**152** solved · 117 problems · 5 labs · 30 math
 
 ![Coverage](./coverage.svg)
 
@@ -110,6 +110,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Jacobian Matrix Calculation](https://www.deep-ml.com/problems/202) | medium | 2026-10-15 | [solution](problems/0202-jacobian-matrix-calculation) |
 | [Matrix Rank](https://www.deep-ml.com/problems/329) | medium | 2026-10-07 | [solution](problems/0329-matrix-rank) |
 | [Mini-Batch Gradient Descent Step for Linear Regression](https://www.deep-ml.com/problems/803) | medium | 2026-09-27 | [solution](problems/0803-mini-batch-gradient-descent-step-for-linear-regression) |
+| [Multi-Head Attention via Head Stacking](https://www.deep-ml.com/problems/958) | medium | 2026-10-22 | [solution](problems/0958-multi-head-attention-via-head-stacking) |
 | [Naive Matrix Multiplication](https://www.deep-ml.com/problems/1209) | medium | 2026-09-30 | [solution](problems/1209-naive-matrix-multiplication) |
 | [Normal Distribution PDF Calculator](https://www.deep-ml.com/problems/80) | medium | 2026-10-01 | [solution](problems/0080-normal-distribution-pdf-calculator) |
 | [Overlapping Max Pooling](https://www.deep-ml.com/problems/190) | medium | 2026-10-05 | [solution](problems/0190-overlapping-max-pooling) |
