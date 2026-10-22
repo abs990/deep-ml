@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**144** solved · 110 problems · 5 labs · 29 math
+**145** solved · 111 problems · 5 labs · 29 math
 
 ![Coverage](./coverage.svg)
 
@@ -73,6 +73,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Your first JOIN](https://www.deep-ml.com/problems/1109) | easy | 2026-10-15 | [solution](problems/1109-your-first-join) |
 | [2D Translation Matrix Implementation](https://www.deep-ml.com/problems/55) | medium | 2026-10-19 | [solution](problems/0055-2d-translation-matrix-implementation) |
 | [Adaptive KL-Penalized Reward Shaping for RLHF](https://www.deep-ml.com/problems/486) | medium | 2026-10-08 | [solution](problems/0486-adaptive-kl-penalized-reward-shaping-for-rlhf) |
+| [Bahdanau Additive Attention](https://www.deep-ml.com/problems/1383) | medium | 2026-10-22 | [solution](problems/1383-bahdanau-additive-attention) |
 | [Binomial Distribution Probability](https://www.deep-ml.com/problems/79) | medium | 2026-10-01 | [solution](problems/0079-binomial-distribution-probability) |
 | [Build Scaled Dot-Product Attention](https://www.deep-ml.com/problems/490) | medium | 2026-10-21 | [solution](problems/0490-build-scaled-dot-product-attention) |
 | [Calculate AUC (Area Under ROC Curve)](https://www.deep-ml.com/problems/277) | medium | 2026-10-20 | [solution](problems/0277-calculate-auc-area-under-roc-curve) |
