@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T18:58:33.372Z",
+  "generated_at": "2026-10-22T19:05:25.888Z",
   "items": {
     "problem:1208": {
       "kind": "problem",
@@ -1862,6 +1862,19 @@
       "path": "problems/0963-scale-attention-scores-by-sqrt-d-k",
       "first_solved_at": "2026-10-22T18:58:32.893Z",
       "last_pushed_at": "2026-10-22T18:58:32.893Z",
+      "language": "python",
+      "lines": 24
+    },
+    "problem:962": {
+      "kind": "problem",
+      "id": "962",
+      "title": "Compare Naive vs Stable Softmax for Attention Scores",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/962",
+      "path": "problems/0962-compare-naive-vs-stable-softmax-for-attention-scores",
+      "first_solved_at": "2026-10-22T19:05:25.469Z",
+      "last_pushed_at": "2026-10-22T19:05:25.469Z",
       "language": "python",
       "lines": 24
     }
