@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T23:06:28.458Z",
+  "generated_at": "2026-10-22T23:14:37.209Z",
   "items": {
     "problem:1208": {
       "kind": "problem",
@@ -1994,6 +1994,19 @@
       "last_pushed_at": "2026-10-22T23:06:23.418Z",
       "language": "python",
       "lines": 22
+    },
+    "problem:107": {
+      "kind": "problem",
+      "id": "107",
+      "title": "Implement Masked Self-Attention",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/107",
+      "path": "problems/0107-implement-masked-self-attention",
+      "first_solved_at": "2026-10-22T23:14:36.842Z",
+      "last_pushed_at": "2026-10-22T23:14:36.842Z",
+      "language": "python",
+      "lines": 24
     }
   }
 }
