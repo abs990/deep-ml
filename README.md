@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**163** solved · 127 problems · 6 labs · 30 math
+**164** solved · 128 problems · 6 labs · 30 math
 
 ![Coverage](./coverage.svg)
 
@@ -40,6 +40,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Generate a Confusion Matrix for Binary Classification](https://www.deep-ml.com/problems/75) | easy | 2026-09-30 | [solution](problems/0075-generate-a-confusion-matrix-for-binary-classification) |
 | [Gradient Direction and Magnitude](https://www.deep-ml.com/problems/308) | easy | 2026-09-25 | [solution](problems/0308-gradient-direction-and-magnitude) |
 | [Gradient of a Square with Autograd](https://www.deep-ml.com/problems/1222) | easy | 2026-10-06 | [solution](problems/1222-gradient-of-a-square-with-autograd) |
+| [Implement Binary Cross-Entropy Loss](https://www.deep-ml.com/problems/263) | easy | 2026-10-28 | [solution](problems/0263-implement-binary-cross-entropy-loss) |
 | [Implement Compressed Column Sparse Matrix Format (CSC)](https://www.deep-ml.com/problems/67) | easy | 2026-10-19 | [solution](problems/0067-implement-compressed-column-sparse-matrix-format-csc) |
 | [Implement Compressed Row Sparse Matrix (CSR) Format Conversion](https://www.deep-ml.com/problems/65) | easy | 2026-10-19 | [solution](problems/0065-implement-compressed-row-sparse-matrix-csr-format-conversion) |
 | [Implement F-Score Calculation for Binary Classification](https://www.deep-ml.com/problems/61) | easy | 2026-09-30 | [solution](problems/0061-implement-f-score-calculation-for-binary-classification) |
