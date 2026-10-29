@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**170** solved · 134 problems · 6 labs · 30 math
+**171** solved · 135 problems · 6 labs · 30 math
 
 ![Coverage](./coverage.svg)
 
@@ -84,6 +84,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Backpropagation Through a Scalar Chain Network](https://www.deep-ml.com/problems/1075) | medium | 2026-10-28 | [solution](problems/1075-backpropagation-through-a-scalar-chain-network) |
 | [Bahdanau Additive Attention](https://www.deep-ml.com/problems/1383) | medium | 2026-10-22 | [solution](problems/1383-bahdanau-additive-attention) |
 | [Batched Attention Score Computation for Multiple Heads](https://www.deep-ml.com/problems/966) | medium | 2026-10-22 | [solution](problems/0966-batched-attention-score-computation-for-multiple-heads) |
+| [Bias-Variance Decomposition from Bootstrap](https://www.deep-ml.com/problems/804) | medium | 2026-10-29 | [solution](problems/0804-bias-variance-decomposition-from-bootstrap) |
 | [Binomial Distribution Probability](https://www.deep-ml.com/problems/79) | medium | 2026-10-01 | [solution](problems/0079-binomial-distribution-probability) |
 | [Build Scaled Dot-Product Attention](https://www.deep-ml.com/problems/490) | medium | 2026-10-21 | [solution](problems/0490-build-scaled-dot-product-attention) |
 | [Calculate AUC (Area Under ROC Curve)](https://www.deep-ml.com/problems/277) | medium | 2026-10-20 | [solution](problems/0277-calculate-auc-area-under-roc-curve) |
