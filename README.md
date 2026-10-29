@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**171** solved · 135 problems · 6 labs · 30 math
+**172** solved · 136 problems · 6 labs · 30 math
 
 ![Coverage](./coverage.svg)
 
@@ -121,6 +121,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement the Huber Loss Function](https://www.deep-ml.com/problems/192) | medium | 2026-10-19 | [solution](problems/0192-implement-the-huber-loss-function) |
 | [Implementing a Simple RNN](https://www.deep-ml.com/problems/54) | medium | 2026-10-21 | [solution](problems/0054-implementing-a-simple-rnn) |
 | [Jacobian Matrix Calculation](https://www.deep-ml.com/problems/202) | medium | 2026-10-15 | [solution](problems/0202-jacobian-matrix-calculation) |
+| [Learning Curve Generator for Bias-Variance Diagnosis](https://www.deep-ml.com/problems/800) | medium | 2026-10-29 | [solution](problems/0800-learning-curve-generator-for-bias-variance-diagnosis) |
 | [Matrix Rank](https://www.deep-ml.com/problems/329) | medium | 2026-10-07 | [solution](problems/0329-matrix-rank) |
 | [Mini-Batch Gradient Descent Step for Linear Regression](https://www.deep-ml.com/problems/803) | medium | 2026-09-27 | [solution](problems/0803-mini-batch-gradient-descent-step-for-linear-regression) |
 | [Multi-Head Attention via Head Stacking](https://www.deep-ml.com/problems/958) | medium | 2026-10-22 | [solution](problems/0958-multi-head-attention-via-head-stacking) |
