@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**168** solved · 132 problems · 6 labs · 30 math
+**169** solved · 133 problems · 6 labs · 30 math
 
 ![Coverage](./coverage.svg)
 
@@ -80,6 +80,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Your first JOIN](https://www.deep-ml.com/problems/1109) | easy | 2026-10-15 | [solution](problems/1109-your-first-join) |
 | [2D Translation Matrix Implementation](https://www.deep-ml.com/problems/55) | medium | 2026-10-19 | [solution](problems/0055-2d-translation-matrix-implementation) |
 | [Adaptive KL-Penalized Reward Shaping for RLHF](https://www.deep-ml.com/problems/486) | medium | 2026-10-08 | [solution](problems/0486-adaptive-kl-penalized-reward-shaping-for-rlhf) |
+| [Backpropagation Gradients for a Dense Layer](https://www.deep-ml.com/problems/1076) | medium | 2026-10-29 | [solution](problems/1076-backpropagation-gradients-for-a-dense-layer) |
 | [Backpropagation Through a Scalar Chain Network](https://www.deep-ml.com/problems/1075) | medium | 2026-10-28 | [solution](problems/1075-backpropagation-through-a-scalar-chain-network) |
 | [Bahdanau Additive Attention](https://www.deep-ml.com/problems/1383) | medium | 2026-10-22 | [solution](problems/1383-bahdanau-additive-attention) |
 | [Batched Attention Score Computation for Multiple Heads](https://www.deep-ml.com/problems/966) | medium | 2026-10-22 | [solution](problems/0966-batched-attention-score-computation-for-multiple-heads) |
